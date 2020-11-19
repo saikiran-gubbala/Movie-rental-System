@@ -1,1 +1,1 @@
-# Movie-rental-System
+Download XAMPP.Goto the XAMPP control panel and start the mySQL and apache modules.Goto http://localhost/phpmyadmin/ and run the create sql code.Paste the folder here C:\xampp\htdocs then open your webpage and search localhost.
